@@ -1,8 +1,10 @@
 # 联系方式
 
 - 手机：18825182179 
+- 微信号：light_bo
+- QQ：785250288
 - Email：light_bo@126.com
-- QQ/微信号：785250288
+
 
 ---
 
@@ -11,12 +13,15 @@
  - 李旭波/男/1991
  - 工作年限：2 年
  - 期望职位：iOS 开发工程师
- - 期望城市 ：深圳
- - 期望薪资：税前月薪 10k 以上，特别喜欢的公司可例外
- - Github : https://github.com/light-bo(有自己的开源代码)
+ - 期望城市 ：深圳 or 广州
+ - Github : [https://github.com/light-bo](https://github.com/light-bo) (有自己的开源代码)
  - 技术博客: 
-   - http://light-bo.github.io/  
-   - http://blog.csdn.net/light_bo 
+   - [http://light-bo.github.io/](http://light-bo.github.io/)  
+   - [http://blog.csdn.net/light_bo ](http://blog.csdn.net/light_bo )
+ 
+ - 上线 app 
+   - 许愿夺宝：[http://a.app.qq.com/o/simple.jsp?pkgname=com.quickarrow.xuyuan&ckey=CK1336664907455](http://a.app.qq.com/o/simple.jsp?pkgname=com.quickarrow.xuyuan&ckey=CK1336664907455)
+   - 美丽阅读：[https://itunes.apple.com/cn/app/mei-li-yue-du/id1069858581?mt=8](https://itunes.apple.com/cn/app/mei-li-yue-du/id1069858581?mt=8)
  
  - 广东工业大学/本科/网络工程系(计算机相关专业)，在校成绩优异，专业核心课程有:
    - 微机原理; C++程序设计; Java 编程思想
@@ -29,8 +34,8 @@
 
 # 专业技能
 
-- 熟悉 **iOS** 开发平台及框架原理，对 **UIKit**框架等及 iOS SDK 有深入理解
-- 熟悉 **OC**,**Swift**,**C/C++**,了解 **Python**，**JavaScript** 等
+- 熟悉 **iOS** 开发平台及框架原理，对 **UIKit** 框架等及 iOS SDK 有深入理解
+- 熟悉 **OC**, **Swift**, **C/C++**, 了解 **Python**，**JavaScript** 等
 - 熟悉掌握版本管理工具：**SVN/Git**
 - 熟悉 **MFC**, **Qt** 等其他 **GUI** 框架
 - 熟练掌握基本的数据结构和算法，计算机基础知识扎实
@@ -40,13 +45,13 @@
 
 
 # 工作经历
-###2015 年 09 月 ~ 2016 年 06 月
+###2015 年 09 月 ~ 2016 年 07 月
 - 公司名称：广州美读信息技术有限公司
 - 职位：iOS 开发工程师
 - 职能：作为核心开发人员参与公司 **美丽阅读** iOS 客户端早期的开发，维护项目并完成日常的需求，同时优化 App 的性能，保证程序的稳定性和可靠性。
 
 
-###2014 年 09 月  ~  2015 年 09 月
+###2014 年 10 月  ~  2015 年 09 月
 - 公司名称：广州亿牛信息科技有限公司  
 - 职位：iOS 开发工程师  
 - 职能：  
