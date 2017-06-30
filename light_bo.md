@@ -11,17 +11,17 @@
 # 个人信息
 
  - 李旭波/男/1991
- - 工作年限：2 年
+ - 工作年限：3 年
  - 期望职位：iOS 开发工程师
  - 期望城市 ：深圳 or 广州
- - Github : [https://github.com/light-bo](https://github.com/light-bo) (有自己的开源代码)
+ - Github : [https://github.com/light-bo](https://github.com/light-bo) 
  - 技术博客: 
    - [http://light-bo.github.io/](http://light-bo.github.io/)  
    - [http://blog.csdn.net/light_bo ](http://blog.csdn.net/light_bo )
  
  - 上线 app 
    - 许愿夺宝：[http://a.app.qq.com/o/simple.jsp?pkgname=com.quickarrow.xuyuan&ckey=CK1336664907455](http://a.app.qq.com/o/simple.jsp?pkgname=com.quickarrow.xuyuan&ckey=CK1336664907455)
-   - 美丽阅读：[https://itunes.apple.com/cn/app/mei-li-yue-du/id1069858581?mt=8](https://itunes.apple.com/cn/app/mei-li-yue-du/id1069858581?mt=8)
+   
  
  - 广东工业大学/本科/网络工程系(计算机相关专业)，在校成绩优异，专业核心课程有:
    - 微机原理; C++程序设计; Java 编程思想
@@ -45,6 +45,13 @@
 
 
 # 工作经历
+### 2016 年 07 月 ~ 至今
+- 公司名称：
+- 职位：
+- 职能：
+
+
+
 ###2015 年 09 月 ~ 2016 年 07 月
 - 公司名称：广州美读信息技术有限公司
 - 职位：iOS 开发工程师
