@@ -28,7 +28,7 @@
 
 - 熟悉 **iOS** 开发平台及相关框架原理，对 **UIKit** 框架等有深入理解
 - 熟悉 **Objective-C**, **Swift**, **C/C++**, 了解 **Python**，**JavaScript** 等
-- 熟悉 **Objective-C** 中 **runtime** 相关技术，曾利用 **runtime** 技术做过 app 的页面埋点，修复一些 bug。
+- 熟悉 **Objective-C** 中 **runtime** 相关技术，曾利用 **runtime** 技术做过 app 的页面埋点，分类增加属性等。
 - 熟悉 **iOS** 中 **runloop** 机制。
 - 熟悉 **iOS** 基本动画的编写，写过类似探探卡片动画的效果
 - 熟悉掌握 **Git** 版本管理控制工具
