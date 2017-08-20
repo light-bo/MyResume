@@ -26,7 +26,7 @@
 
 # 专业技能
 
-- 熟悉 **iOS** 开发平台及相关框架原理，对 **UIKit** 框架等有深入理解
+- 熟悉 **iOS** 开发平台及相关框架原理，熟练运用 **UIKit**、**CALayer**、**CoreGraphics** 等进行界面开发
 - 熟悉 **Objective-C**, **Swift**, **C/C++**, 了解 **Python**，**JavaScript** 等
 - 熟悉 **Objective-C** 中 **runtime** 相关技术，曾利用 **runtime** 技术做过 app 的页面埋点，分类增加属性等。
 - 熟悉 **iOS** 中 **runloop** 机制。
