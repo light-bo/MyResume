@@ -17,7 +17,7 @@
  - Github : [https://github.com/light-bo](https://github.com/light-bo) 
  - 技术博客: 
    - [http://light-bo.github.io/](http://light-bo.github.io/)  
-   - [http://blog.csdn.net/light_bo ](http://blog.csdn.net/light_bo )
+   - [http://blog.csdn.net/light_bo ](http://blog.csdn.net/light_bo)
 
  - 广东工业大学/本科/网络工程系
 
@@ -27,7 +27,7 @@
 # 专业技能
 
 - 熟悉 **iOS** 开发平台及相关框架原理，熟练运用 **UIKit**、**CALayer**、**CoreGraphics** 等进行界面开发
-- 熟悉 **Objective-C**, **Swift**, **C/C++**, 了解 **Python**，**JavaScript** 等
+- 熟悉 **Objective-C**, **Swift**, **C/C++**, 熟悉 **ReactiveCocoa** 框架
 - 熟悉 **Objective-C** 中 **runtime** 相关技术，曾利用 **runtime** 技术做过 app 的页面埋点，分类增加属性等。
 - 熟悉 **iOS** 中 **runloop** 机制。
 - 熟悉 **iOS** 基本动画的编写，写过类似探探卡片动画的效果
