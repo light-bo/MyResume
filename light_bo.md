@@ -15,10 +15,7 @@
  - 期望职位：iOS 开发工程师
  - 期望城市 ：深圳/广州
  - **Github : [https://github.com/light-bo](https://github.com/light-bo)** 
- - **技术博客:** 
-   - **[http://light-bo.github.io/](http://light-bo.github.io/)**  
-   - **[http://blog.csdn.net/light_bo ](http://blog.csdn.net/light_bo)**
-
+ - **技术博客 : [http://light-bo.github.io/](http://light-bo.github.io/)** 
  - 广东工业大学/本科/网络工程系
 
 ---
