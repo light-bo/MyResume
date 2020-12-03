@@ -3,7 +3,6 @@
 - (+86)188-2518-2179 
 - light_bo@126.com
 - 微信号：light_bo
-- QQ：785250288
 
 ---
 
@@ -13,7 +12,7 @@
  - 李旭波/男/1991
  - 工作年限：5 年
  - 期望职位：iOS 开发工程师
- - 期望城市 ：深圳/广州
+ - 期望城市 ：深圳
  - Github : [https://github.com/light-bo](https://github.com/light-bo)
  - 广东工业大学/本科/网络工程系
 
